@@ -1,3 +1,4 @@
+// 相关教程 https://juejin.cn/post/7087100496762109983
 import { createStore } from 'vuex'
 
 //导出store
